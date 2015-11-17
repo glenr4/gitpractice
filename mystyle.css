@@ -1,0 +1,15 @@
+h1 {
+	color: red;
+}
+
+body {
+	background-color: #f0f0f0;
+}
+
+h1, p {
+	font-family: arial;
+}
+
+ul {
+	list-style-position: inside;
+}
